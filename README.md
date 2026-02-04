@@ -7,5 +7,4 @@ Este proyecto consistió en la simulación de un E-commerce de repuestos de bici
 * **Gestión de Defectos**: Reporte y seguimiento de bugs utilizando Trello.
 * **Documentación**: Redacción de casos de prueba detallados para asegurar la funcionalidad del carrito y la pasarela de pagos.
 * **Colaboración Ágil**: Participación en ceremonias diarias y coordinación con el equipo de desarrollo.
-  
-* 🛠️ Herramientas: Trello, Google Sheets (para planes de prueba), Navegadores Chrome/Firefox DevTools.
+🛠️ Herramientas: Trello, Google Sheets (para planes de prueba), Navegadores Chrome/Firefox DevTools.
